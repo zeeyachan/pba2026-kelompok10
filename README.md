@@ -7,7 +7,7 @@ Tugas besar mata kuliah Pemrosesan Bahasa Alami Sains Data 2026
     <tr>
       <td align="center">
         <a href="https://github.com/zeeyachan">
-          <img src="https://github.com/zeeyachan.png" width="100px;" alt="avatar"/>
+          <img src="https://github.com/zeeyachan.png" width="20px;" alt="avatar"/>
           <br />
           <sub><b>Nabila Zakiyah Zahra</b></sub>
         </a>
@@ -18,27 +18,27 @@ Tugas besar mata kuliah Pemrosesan Bahasa Alami Sains Data 2026
       </td>
   
       <td align="center">
-        <a href="https://github.com/username2">
-          <img src="https://github.com/username2.png" width="100px;" alt="avatar"/>
+        <a href="https://github.com/salwaf01">
+          <img src="https://github.com/salwaf01.png" width="20px;" alt="avatar"/>
           <br />
-          <sub><b>Nama Anggota 2</b></sub>
+          <sub><b>Salwa Farhanatussaidah</b></sub>
         </a>
         <br />
-        (NIM)
+        122450055
         <br />
-        @username2
+        @salwaf01
       </td>
   
       <td align="center">
-        <a href="https://github.com/username3">
-          <img src="https://github.com/username3.png" width="100px;" alt="avatar"/>
+        <a href="https://github.com/nasywanaff">
+          <img src="https://github.com/nasywanaff.png" width="20px;" alt="avatar"/>
           <br />
-          <sub><b>Nama Anggota 3</b></sub>
+          <sub><b>Nasywa Nur Afifah</b></sub>
         </a>
         <br />
-        (NIM)
+        122450125
         <br />
-        @username3
+        @nasywanaff
       </td>
     </tr>
   </table>
