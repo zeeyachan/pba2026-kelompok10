@@ -3,21 +3,11 @@ Tugas besar mata kuliah Pemrosesan Bahasa Alami Sains Data 2026
 
 ## Anggota Tim
 
-### 👩‍💻 Nabila Zakiyah Zahra  
-[![GitHub Avatar](https://github.com/zeeyachan.png)](https://github.com/zeeyachan)  
-**NIM:** 122450139  
-**GitHub:** [@zeeyachan](https://github.com/zeeyachan)
+- <img src="https://github.com/zeeyachan.png" width="25" style="border-radius:50%;"> 
+  **Nabila Zakiyah Zahra** (122450139) — [@zeeyachan](https://github.com/zeeyachan)
 
----
+- <img src="https://github.com/salwaf01.png" width="25" style="border-radius:50%;"> 
+  **Salwa Farhanatussaidah** (122450055) — [@salwaf01](https://github.com/salwaf01)
 
-### 👩‍💻 Salwa Farhanatussaidah  
-[![GitHub Avatar](https://github.com/salwaf01.png)](https://github.com/salwaf01)  
-**NIM:** 122450055  
-**GitHub:** [@salwaf01](https://github.com/salwaf01)
-
----
-
-### 👩‍💻 Nasywa Nur Afifah  
-[![GitHub Avatar](https://github.com/nasywanaff.png)](https://github.com/nasywanaff)  
-**NIM:** 122450125  
-**GitHub:** [@nasywanaff](https://github.com/nasywanaff)
+- <img src="https://github.com/nasywanaff.png" width="25" style="border-radius:50%;"> 
+  **Nasywa Nur Afifah** (122450125) — [@nasywanaff](https://github.com/nasywanaff)
